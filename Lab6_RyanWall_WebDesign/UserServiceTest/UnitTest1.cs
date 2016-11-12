@@ -1,7 +1,5 @@
-﻿using System;
-//using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿
 using NUnit.Framework;
-using FakeItEasy;
 using Lab6_RyanWall_WebDesign.Services;
 using Lab6_RyanWall_WebDesign.Models;
 using Lab6_RyanWall_WebDesign;
@@ -22,7 +20,7 @@ namespace UserServiceTest.Tests
 
         }
 
-        [Test]
+        [TestCase]
         public void CoolRatingIsBelowThresholdTheUserIsNotCool()
         {
             var user = new User
@@ -32,8 +30,8 @@ namespace UserServiceTest.Tests
                 EmailAddress = "coolness@gmail.com",
                 NickName = "ghost",
                 address = "998 cool st",
-                FavoriteNBATeam = "blazers",
-                DoYouPlayVG = true
+                FavoriteNBATeam = "lakers",
+                DoYouPlayVG = false
                 
           
                 

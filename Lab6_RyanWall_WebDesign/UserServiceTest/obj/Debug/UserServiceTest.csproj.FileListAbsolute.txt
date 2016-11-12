@@ -14,7 +14,6 @@ C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab6_RyanWall_WebDesign
 C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab6_RyanWall_WebDesign\UserServiceTest\bin\Debug\UserServiceTest.dll
 C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab6_RyanWall_WebDesign\UserServiceTest\bin\Debug\UserServiceTest.pdb
 C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab6_RyanWall_WebDesign\UserServiceTest\bin\Debug\Lab6_RyanWall_WebDesign.dll
-C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab6_RyanWall_WebDesign\UserServiceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab6_RyanWall_WebDesign\UserServiceTest\bin\Debug\nunit.framework.dll
 C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab6_RyanWall_WebDesign\UserServiceTest\bin\Debug\Microsoft.Owin.dll
 C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab6_RyanWall_WebDesign\UserServiceTest\bin\Debug\System.Web.Optimization.dll
